@@ -6,6 +6,7 @@
   "scripts": {
     "start": "parcel index.html",
     "test": "jest"
+    
   },
   "keywords": [],
   "author": "Riza Fahmi <rizafahmi@gmail.com> (https://rizafahmi.com)",
